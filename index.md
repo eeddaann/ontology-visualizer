@@ -13,7 +13,7 @@
 }
 .node text {
   font: 10px sans-serif;
-  fill: #fff;
+  color: #fff;
 }
 .link {
   fill: none;
