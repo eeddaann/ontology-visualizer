@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 <meta charset="utf-8">
-<body><body>
+
 <style>
 .node {
   cursor: pointer;
@@ -21,7 +21,7 @@
   stroke-width: 1.5px;
 }
 </style>
-
+<body>
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
@@ -140,4 +140,4 @@ function click(d) {
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+</body>
