@@ -1,9 +1,30 @@
 {
- "name": "flare",
- "children": [
-  {
-   "name": "analytics"
-  }
- ]
+    "name": "Data Science",
+    "children": [
+                 {
+                 "name": "Data Profiling and Preparation",
+                 "children": [{
+                              "name": "Data Discretization",
+                              "url": "https://en.wikipedia.org/wiki/Discretization_of_continuous_features"
+                              },
+                              {
+                              "name": "Data Cleaning",
+                              "children": [{
+                                           "name": "Type Conversion",
+                                           "url": "http://en.wikipedia.org/wiki/Type_conversion"
+                                           }, {
+                                           "name": "Character Encoding",
+                                           "url": "http://en.wikipedia.org/wiki/Character_encoding"
+                                           }, {
+                                           "name": "Missing Data",
+                                           "url": "http://en.wikipedia.org/wiki/Missing_data"
+                                           }, {
+                                           "name": "Outlier",
+                                           "url": "http://en.wikipedia.org/wiki/Outlier"
+                                           }, {
+                                           "name": "Imputation",
+                                           "url": "http://en.wikipedia.org/wiki/Imputation_(statistics)"
+                                           }]
+                              }]
+                 }]
 }
-   
