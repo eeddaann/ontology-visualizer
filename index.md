@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 <meta charset="utf-8">
 
