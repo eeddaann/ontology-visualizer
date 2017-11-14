@@ -2,29 +2,50 @@
     "name": "Data Science",
     "children": [
                  {
-                 "name": "Data Profiling and Preparation",
+                 
+                 "name": "תחומים",
                  "children": [{
-                              "name": "Data Discretization",
-                              "url": "https://en.wikipedia.org/wiki/Discretization_of_continuous_features"
-                              },
-                              {
-                              "name": "Data Cleaning",
+                              "name": "מערכות אוטומטיות",
                               "children": [{
-                                           "name": "Type Conversion",
-                                           "url": "http://en.wikipedia.org/wiki/Type_conversion"
+                                           "name": "בינה מלאכותית"
                                            }, {
-                                           "name": "Character Encoding",
-                                           "url": "http://en.wikipedia.org/wiki/Character_encoding"
+                                           "name": "רובוטיקה"
                                            }, {
-                                           "name": "Missing Data",
-                                           "url": "http://en.wikipedia.org/wiki/Missing_data"
+                                           "name": "מכונית אוטונומית"
                                            }, {
-                                           "name": "Outlier",
-                                           "url": "http://en.wikipedia.org/wiki/Outlier"
+                                           "name": "הדפסה תלת-מימדית"
+                                           }]},
+                              {"name": "ארגון וניהול תוכן",
+                              "children": [{
+                                           "name": "ביג דאטה"
                                            }, {
-                                           "name": "Imputation",
-                                           "url": "http://en.wikipedia.org/wiki/Imputation_(statistics)"
-                                           }]
-                              }]
-                 }]
+                                           "name": "ניהול ידע"
+                                           }, {
+                                           "name": "אונטולוגיות"
+                                           }, {
+                                           "name": "בלשנות"
+                                           }]},
+                              {"name": "עיבוד וניתוח מידע",
+                              "children": [{
+                                           "name": "Anomaly Detection"
+                                           }, {
+                                           "name": "Cluster Analysis"
+                                           }, {
+                                           "name": "Image Annotation"
+                                           }, {
+                                           "name": "Pattern Recognition"
+                                           }]},
+                              {"name": "הצגת מידע",
+                              "children": [{
+                                           "name": "מציאות רבודה"
+                                           }, {
+                                           "name": "מציאות מדומה"
+                                           }, {
+                                           "name": "אינפוגרפיקה"
+                                           }, {
+                                           "name": "אינטראקציית אדם-מחשב"
+                                           }]}
+                 ]
+                 }
+                 ]
 }
