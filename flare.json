@@ -1,51 +1,139 @@
 {
-    "name": "Data Science",
-    "children": [
-                 {
-                 
-                 "name": "תחומים",
-                 "children": [{
-                              "name": "מערכות אוטומטיות",
-                              "children": [{
-                                           "name": "בינה מלאכותית"
-                                           }, {
-                                           "name": "רובוטיקה"
-                                           }, {
-                                           "name": "מכונית אוטונומית"
-                                           }, {
-                                           "name": "הדפסה תלת-מימדית"
-                                           }]},
-                              {"name": "ארגון וניהול תוכן",
-                              "children": [{
-                                           "name": "ביג דאטה"
-                                           }, {
-                                           "name": "ניהול ידע"
-                                           }, {
-                                           "name": "אונטולוגיות"
-                                           }, {
-                                           "name": "בלשנות"
-                                           }]},
-                              {"name": "עיבוד וניתוח מידע",
-                              "children": [{
-                                           "name": "Anomaly Detection"
-                                           }, {
-                                           "name": "Cluster Analysis"
-                                           }, {
-                                           "name": "Image Annotation"
-                                           }, {
-                                           "name": "Pattern Recognition"
-                                           }]},
-                              {"name": "הצגת מידע",
-                              "children": [{
-                                           "name": "מציאות רבודה"
-                                           }, {
-                                           "name": "מציאות מדומה"
-                                           }, {
-                                           "name": "אינפוגרפיקה"
-                                           }, {
-                                           "name": "אינטראקציית אדם-מחשב"
-                                           }]}
-                 ]
-                 }
-                 ]
+  "name": "Data Science",
+  "children": [
+    {
+      "name": "תחומים",
+      "children": [
+        {
+          "name": "מערכות אוטומטיות",
+          "children": [
+            {
+              "name": "בינה מלאכותית",
+              "children": [
+                {
+                  "name": "Data Mining"
+                },
+                {
+                  "name": "Deep Learning",
+                  "children": [
+                    {
+                      "name": "Deep Neural Network"
+                    },
+                    {
+                      "name": "Convolutional Neural Network"
+                    },
+                    {
+                      "name": "Deep Boltzmann Machines"
+                    },
+                    {
+                      "name": "Deep Q-Network"
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning"
+                }
+              ]
+            },
+            {
+              "name": "רובוטיקה"
+            },
+            {
+              "name": "מכונית אוטונומית"
+            },
+            {
+              "name": "הדפסה תלת-מימדית"
+            }
+          ]
+        },
+        {
+          "name": "ארגון וניהול תוכן",
+          "children": [
+            {
+              "name": "ביג דאטה"
+            },
+            {
+              "name": "ניהול ידע"
+            },
+            {
+              "name": "אונטולוגיות"
+            },
+            {
+              "name": "בלשנות"
+            }
+          ]
+        },
+        {
+          "name": "עיבוד וניתוח מידע",
+          "children": [
+            {
+              "name": "Anomaly Detection"
+            },
+            {
+              "name": "Cluster Analysis"
+            },
+            {
+              "name": "Image Annotation"
+            },
+            {
+              "name": "Pattern Recognition"
+            }
+          ]
+        },
+        {
+          "name": "הצגת מידע",
+          "children": [
+            {
+              "name": "מציאות רבודה"
+            },
+            {
+              "name": "מציאות מדומה"
+            },
+            {
+              "name": "אינפוגרפיקה"
+            },
+            {
+              "name": "אינטראקציית אדם-מחשב"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "טכנולוגיות",
+      "children": [
+        {
+          "name": "Anomaly Detection"
+        },
+        {
+          "name": "Blockchain"
+        },
+        {
+          "name": "Cluster Analysis"
+        },
+        {
+          "name": "Cryptography",
+          "children": [
+            {
+              "name": "מטבע וירטואלי",
+              "children": [
+                {
+                  "name": "Etherium"
+                },
+                {
+                  "name": "Bitcoin"
+                },
+                {
+                  "name": "מטבע וירטואלי-מאמרים"
+                },
+                {
+                  "name": "מטבע וירטואלי-עקרונות"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
