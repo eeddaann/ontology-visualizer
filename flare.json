@@ -14,21 +14,7 @@
                   "name": "Data Mining"
                 },
                 {
-                  "name": "Deep Learning",
-                  "children": [
-                    {
-                      "name": "Deep Neural Network"
-                    },
-                    {
-                      "name": "Convolutional Neural Network"
-                    },
-                    {
-                      "name": "Deep Boltzmann Machines"
-                    },
-                    {
-                      "name": "Deep Q-Network"
-                    }
-                  ]
+                  "name": "Deep Learning"
                 },
                 {
                   "name": "Machine Learning"
@@ -132,6 +118,45 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "name": "מגזרים",
+      "children": [
+        {
+          "name": "אקדמי"
+        },
+        {
+          "name": " רפואי ",
+          "children": [
+            {
+              "name": "Health Care Analytics"
+            },
+            {
+              "name": "Voice Analysis במגזר ברפואי"
+            }
+          ]
+        },
+        {
+          "name": "ביטחוני "
+        },
+        {
+          "name": "פיננסי "
+        }
+      ]
+    },
+    {
+      "name": "אנשים",
+      "children": [
+        {
+          "name": "יובל נח הררי"
+        },
+        {
+          "name": "יצחק בן ישראל"
+        },
+        {
+          "name": "קירה רדינסקי"
         }
       ]
     }
